@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![github-header-image (11) (2)](https://github.com/yhware/yhware/assets/7122981/40dcc538-c727-4751-9143-1b26b26cb01a)
 
 <!-- Icons slugs from https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
