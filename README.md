@@ -1,10 +1,11 @@
 ![Header](https://github.com/yhware/yhware/assets/7122981/40dcc538-c727-4751-9143-1b26b26cb01a)
 
 <!-- Badges from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/daniel-yh-kim/)
+[![Linkedin: daniel-yh-kim](https://img.shields.io/badge/-Daniel%20Kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-yh-kim/)](https://www.linkedin.com/in/daniel-yh-kim/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">](https://daniel-yh-kim.com/projects)
-
+[![website](https://img.shields.io/badge/Portfolio%20Website-255E63?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://daniel-yh-kim.com/projects)](https://daniel-yh-kim.com/projects)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/yhware?label=Follow&style=social)
 
 <!-- Icons slugs from https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 ### Languages
