@@ -7,10 +7,25 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/yhware?label=Follow&style=social)
 
-### What I'm working on
-💬 [Chat as a Service](https://github.com/chat-as-a-service)\
+## What I'm working on
+
+### Chat as a Service
+[<img src="https://img.shields.io/badge/GitHub-blue?logo=github">](https://github.com/chat-as-a-service)
+[<img src="https://img.shields.io/badge/Docs-ffffff?logo=gitbook&color=fff">](https://chat-as-a-service.gitbook.io/chat-as-a-service/)
+
+[<img src="https://github.com/yhware/yhware/assets/7122981/704208c1-6921-4d6b-8ee3-31be0c9b8433" height="200">](https://github.com/chat-as-a-service)
+
 A managed chat service. Customers can use its API and SDK to implement chat functionality into their own applications with minimal effort.
 
+---
+## TL;DR Resume
+- 👨‍🎓 CS Master's student  @ 🏔️ CU Boulder 
+- 👨‍💻 Software Engineer @ 🕹️ [NEXON](https://company.nexon.com/en/company#about-us) (4 years)
+- ☕️ Intern @ Microsoft, Samsung, EY, Accenture
+- 🪖 Military Service (2 years)
+- 👨‍🏫 CS Undergrad @ Royal Holloway, University of London 🇬🇧
+
+---
 <!-- Icons slugs from https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 ### Languages
 
@@ -22,7 +37,7 @@ A managed chat service. Customers can use its API and SDK to implement chat func
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 
-### Web Frameworks/Libraries
+### Web Frameworks / Libraries
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
