@@ -7,6 +7,10 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/yhware?label=Follow&style=social)
 
+### What I'm working on
+💬 [Chat as a Service](https://github.com/chat-as-a-service)\
+A managed chat service. Customers can use its API and SDK to implement chat functionality into their own applications with minimal effort.
+
 <!-- Icons slugs from https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 ### Languages
 
