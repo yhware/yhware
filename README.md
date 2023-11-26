@@ -1,5 +1,6 @@
 ![Header](https://github.com/yhware/yhware/assets/7122981/40dcc538-c727-4751-9143-1b26b26cb01a)
 
+🔎 Looking for 2024 Summer SWE Internship
 <!-- Badges from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 [![Linkedin: daniel-yh-kim](https://img.shields.io/badge/-Daniel%20Kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-yh-kim/)](https://www.linkedin.com/in/daniel-yh-kim/)
 &nbsp;
@@ -19,9 +20,9 @@ A managed chat service. Customers can use its API and SDK to implement chat func
 
 ---
 ## TL;DR Resume
-- 👨‍🎓 CS Master's student  @ 🏔️ CU Boulder 
-- 👨‍💻 Software Engineer @ 🕹️ [NEXON](https://company.nexon.com/en/company#about-us) (4 years)
-- ☕️ Intern @ Microsoft, Samsung, EY, Accenture
+- 📚 CS Master's student @ CU Boulder
+- 👨‍💻 Software Engineer (Back-End) @ 🕹️ [NEXON](https://company.nexon.com/en/company#about-us) (4 years)
+- 💼 Interned @ Microsoft, Samsung, EY, Accenture
 - 🪖 Military Service (2 years)
 - 👨‍🏫 CS Undergrad @ Royal Holloway, University of London 🇬🇧
 
@@ -61,10 +62,3 @@ A managed chat service. Customers can use its API and SDK to implement chat func
 ![Rundeck](https://img.shields.io/badge/-Rundeck-000?&logo=rundeck)
 ![Lambda](https://img.shields.io/badge/-Lambda-000?&logo=awslambda)
 
-
-- 🔎 Looking for 2024 Summer SWE Internship
-- 🧑‍💻 4 years SWE experience in Backend & AWS
-- 💼 Interned @ Microsoft, Samsung, EY, Accenture
-- 📚 CS Master's student @ CU Boulder
-- 🎮 Online Gaming Industry background
-- 📍 Boulder, CO
